@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zabbix_api_php
 ============
 Muhammad Yusuf Efendi
@@ -11,3 +12,7 @@ A PHP library for the Zabbix™ JSON-RPC API.
 
 For more informations visit http://zabbixapi.confirm.ch/
 The documentation will be moved to this README as soon as possible :)
+=======
+# zabbixapi
+Zabbix API using PHP script
+>>>>>>> 3f7b9113e5fd15b3d0733f159a6a05434934208e
