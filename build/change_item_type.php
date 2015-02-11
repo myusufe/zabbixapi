@@ -28,6 +28,7 @@ try {
 	$input_update = array(
 		'itemid' => $item->itemid,
 		'value_type' => "-1",
+		'valuemapid' => "15",
 	);
         //echo "Item name : ".$item->name." ".$item->itemid." ".$item->value_type."\n";
 
