@@ -3,7 +3,7 @@
 zabbix_api_php
 ============
 Muhammad Yusuf Efendi
-mefendi@cisco.com
+myusufe@gmail.com
 
 The core for this api script exist under build directory.
 
